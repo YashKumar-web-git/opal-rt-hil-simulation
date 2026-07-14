@@ -23,7 +23,12 @@ I am a certified **RT-LAB** professional, validating my expertise in real-time s
 
 * **Certificate Image:** Look at the `assets/` folder or see the embedded image below:
 
-<p align="center">
-  <img src="path/to/your/uploaded-certificate-image.png" alt="Yash Kumar RT-LAB OP101 Certificate" width="550"/>
-</p>
+### 🔍 Verification & Artifacts
+
+Click the preview badge below to view the official PDF certificate:
+
+[![View RT-LAB Certificate](https://img.shields.io/badge/PDF-View%20Certificate-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](certification-Certification_-OP101---RT-LAB-241230057@nitdelhi.ac.in.pdf)
+
+---
+
 
